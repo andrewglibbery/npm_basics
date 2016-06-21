@@ -1,0 +1,26 @@
+{
+  "name": "hash_generator",
+  "version": "0.0.1",
+  "description": "a password hash generator",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewglibbery/npm_basics.git"
+  },
+  "author": "andrew glibbery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewglibbery/npm_basics/issues"
+  },
+  "homepage": "https://github.com/andrewglibbery/npm_basics#readme"
+}
